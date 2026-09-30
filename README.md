@@ -21,3 +21,7 @@ IP Positioning: **Little Ant Sees the World**, exploring the complete loop of AI
 2. Give conclusions first, then decompose logic layer by layer, keep ideas clear
 3. All content revolves around "natural laws" and "AI co-creation"
 4. Do not pursue speed, allow slow progress, iterate and optimize, move forward steadily
+
+#### AI 共创方法论‑四层七词系统
+
+工具层：容器 + 脚手架（中立推演空壳）；执行层：工程管理系统 + 想清楚（人做规划与方向把控）；方法层：AI 共创（人机协同算力落地）；结果层：证伪 + 闭环。无论假设成立或被推翻，形成可复现完整流程即为有效闭环。
